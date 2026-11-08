@@ -1,6 +1,6 @@
 # project-route-autonomous-vehicles
 Data science project exploring autonomous vehicle performance and predicting journey problems.
-# Can We Trust the Ride? – Autonomous Vehicle Data Analysis
+# Can We Trust the Ride? - Autonomous Vehicle Data Analysis
 
 ## Project Overview
 This project explores factors associated with autonomous vehicle journey problems using data science and machine learning.
